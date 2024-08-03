@@ -2,55 +2,55 @@
 
 <img src="./resources/images/TotalWordsLogo_squre.png" width="128" height="128" />
 
+TotalWords - application for learning foreign words with cards.
+Vocabulary checker. Creating your own word sets.
 
-TotalWords - приложение для изучения иностранных слов с помощью карточек.
-Проверка словарного запаса. Создание собственных наборов слов.
-[Доступно в Google Play.](https://play.google.com/store/apps/details?id=com.multipps.totalwords)
+[Available on Google Play.](https://play.google.com/store/apps/details?id=com.multipps.totalwords)
 
 <p float="left">
-<img src="./resources/images/s_rus_1.png" width="256"/>
-<img src="./resources/images/s_rus_2.png" width="256"/>
-<img src="./resources/images/s_rus_3.png" width="256"/>
-<img src="./resources/images/s_rus_4.png" width="256"/>
-<img src="./resources/images/s_rus_5.png" width="256"/>
-<img src="./resources/images/s_rus_7.png" width="256"/>
+<img src="./resources/images/s_eng_1.png" width="256"/>
+<img src="./resources/images/s_eng_2.png" width="256"/>
+<img src="./resources/images/s_eng_3.png" width="256"/>
+<img src="./resources/images/s_eng_4.png" width="256"/>
+<img src="./resources/images/s_eng_5.png" width="256"/>
+<img src="./resources/images/s_eng_7.png" width="256"/>
 </p>
 
-## Возможности
+## Features
 
-- Изучение слов спомощью карточек.
-- Создание собственных наборов слов.
-- При создании карточки слова, можно рисовать наброски для лучшго запоминания.
-- Слова разбиты на уровни по частоте встречаемости.
-- Группы слов по частям речи и тематикам.
-- Подсчёт словарного запаса.
-- Статистика изучения.
-- Тёмная тема.
+- Learning words with cards.
+- Creating your own word sets.
+- When creating a word card, you can draw sketches for better memorization.
+- Words are divided into levels by popularity.
+- Groups of words by parts of speech and topics.
+- Vocabulary counting.
+- Study statistics.
+- Dark theme.
 
-## Языки
+## Languages
 
-Языки носителя:
+Native languages:
 
-- Русский
-- Английский
-- Испанский
-- Французкий
-- Немецкий
+- Russian
+- English
+- Spanish
+- French
+- German
 
-Целевые языки изучения слов:
+Target languages ​​for learning words:
 
-- Русский
-- Английский
-- Испанский
-- Французкий
-- Немецкий
+- Russian
+- English
+- Spanish
+- French
+- German
 
-## Платформы и используемый стек
+## Platforms and technology stack
 
-ОС: Android
+OS: Android
 
-Создано на JavaScript с использованием ReactNative.
+Powered by JavaScript using React Native.
 
-## Обратная связь
+## Feedback
 
-Вопросы, предложения и решения проблем предлагайте в разделе Issues.
+Please submit questions, suggestions and problems in the Issues section.
